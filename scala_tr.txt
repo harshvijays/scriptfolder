@@ -1,0 +1,57 @@
+Section 0: undefined 1 / 1|10min
+1. Getting Started! 10min
+Section 1: The Absolute Scala Basics 1 / 8|1hr 56min
+2. Values, Variables and Types 12min
+3. Expressions 20min
+4. Functions 22min
+5. Type Inference 4min
+6. Recursion 25min
+7. Call-by-Name and Call-by-Value 9min
+8. Default and Named Arguments 9min
+9. Smart Operations on Strings 15min
+Section 2: Object-Oriented Programeing in Scala 0 / 14|3hr 50min
+10. Object-Oriented Basics 15min
+11. Object-Oriented Basics (exercises) 17min
+12. Syntactic Sugar: Method Notations 17min
+13. Method Notations (Exercises) 12min
+14. Scala Objects 16min
+15. Inheritance 17min
+16. Inheritance, Continued: Abstract Classes and Traits 12min
+17. Inheritance Exercises:Implementing Our Own Collection 16min
+18. Generics 26min
+19. Anonymous Classes 6min
+20. Object-Oriented Exercises:Expanding Our Collection 26min
+21. Case Classes 12min
+22. Exceptions 27min
+23. Packaging and Imports 13min
+Section 3: Coding practice: A Small File System 0 / 12|4hr 30min
+24. Introduction 15min
+25. Basic Code Scaffolding 28min
+26. Mkdir & Creating Immutable Structures, Part 1 20min
+27. Mkdir & Creating Immutable Structures, Part 2 31min
+28. Finalizing Mkdir and Testing with LS 19min
+29. PWD and Creating Files (Touch) 23min
+30. Changing Directories (CD) and Traversing Immutable Structures, Par… 28min
+31. CD and Traversing Immutable Structures, Part 2 - Relative Paths 20min
+32. Removing "Files" and "Directories" (RM) 28min
+33. Echo! 16min
+34. Echo, Enhanced 22min
+35. Viewing "File" Contents (Cat) and Wrap-Up 20min
+Section 4: Functional Programeing in Scala 0 / 11|3hr 56min
+36. What's a Function, Really? 23min
+37. Anonymous Functions 13min
+38. Higher-Order-Functions and Curries 20min
+39. HOFs and Curries (Exercises) 32min
+40. map, flatMap, filter and for-comprehensions 26min
+41. A Collections Overview 4min
+42. Sequences: List, Array, Vector 24min
+43. Tuples and Maps 16min
+44. Tuples and Maps (Exercises) 31min
+45. Options 26min
+46. Handling Failure 23min
+Section 5: Pattern Matching 0 / 3|52min
+47. Pattern Matching 22min
+48. ALL the Patterns! 20min
+49. Patterns Everywhere 10min
+Section 6: You rock! 0 / 1|2min
+50. What's next 2min
